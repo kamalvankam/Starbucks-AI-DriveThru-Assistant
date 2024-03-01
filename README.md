@@ -16,3 +16,14 @@ This video (link: https://youtu.be/TIw-5DjtUOM) showcases the AI assistant's abi
 
 This video (link: https://youtu.be/7H6L6EGgouE) showcases how the AI assistant enhances customer satisfaction. By integrating with POS systems and checking product availability in real-time, the AI avoids out-of-stock situations and ensures customers receive accurate information during the ordering process.
 
+Benefits :
+
+•	Boost sales through upselling and personalized recommendations.
+
+•	Enhance brand reputation as a leader in technology adoption.
+
+•	Improve employee experience by reducing repetitive tasks and streamlining their workflow.
+
+
+
+
